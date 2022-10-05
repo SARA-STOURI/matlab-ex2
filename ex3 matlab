@@ -1,0 +1,13 @@
+age=input("donner l'age:");
+if age>=6 && age<=7 
+    disp("poussin")
+elseif age>=8 && age<=9 
+    disp("pupille")
+elseif age>=8 && age<=9 
+    disp("Minime")
+elseif age>=12 && age<=14
+    disp("codet")
+else 
+    disp("age non validé");
+end    
+
